@@ -1,2 +1,2 @@
-# stark-runner
+# StarkRunner
 StarkHack 2024
